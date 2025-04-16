@@ -76,7 +76,7 @@ EP 3
 |------|-------|-----------------|
 | 1.   | 15:00-15:11 | Shooting  |
 | 2.   | 16:20 | Firing grenade launcher |
-| 3.   | 16:26-16:31 | Shooting. Using a grenade |
+| 3.   | 16:26-16:31 | Shooting Using a grenade |
 | 4.   | 16:50-17:54 |  Murders |
 | 5.   | 19:13 | Assault |
 | 6.   | 20:40 | Murder and Destruction of property |
