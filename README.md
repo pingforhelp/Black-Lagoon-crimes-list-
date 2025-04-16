@@ -58,8 +58,7 @@ EP 2
 | 6.   | 12:05             |  Shooting |        
 | 7.   | 12:55             |  Firing a torpedo |              
 | 8.   | 13:19             |  Mass murder      |           
-| 9.   | 17:25             | Accepting a offer to work for a
-organised crime group  |                                          
+| 9.   | 17:25             | Accepting a offer to work for a organised crime group  |                                          
 | 10.  | 19:47             | Firing a rocket launcher at a civilian ship |                                                   
 | 11.  | 20:22             | Partaking in organised crimes |                             
 --------------------------------------------------------------
